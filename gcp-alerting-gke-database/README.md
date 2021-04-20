@@ -19,7 +19,7 @@ variable "zone" {
 }
 
 variable "notification" {
-    default = "testgcp@sensysgatso.com"
+    default = "testgcp@example.com.com"
 }
 ```
 
